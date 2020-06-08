@@ -2,3 +2,18 @@ body{
     font: 20px Arial, sans-serif;
     background-color:rgb(27, 83, 83);
  }
+.verdade{
+    background-color:rgb(13, 163, 163);
+    padding-bottom: 1px;
+    padding-top: 5px;
+    color: White;
+    text-align: center;
+}
+.formulario{
+    background-color:rgb(26, 14, 14);
+    padding-bottom: 1px;
+    padding-top: 5px;
+    color: White;
+    text-align: center;  
+}
+
