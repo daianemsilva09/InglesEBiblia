@@ -13,7 +13,17 @@ body{
     background-color:rgb(26, 14, 14);
     padding-bottom: 1px;
     padding-top: 5px;
+
     color: White;
+    border-radius: 10px;
    
 }
+.margin {
+    padding-bottom: 50px;
+    padding-top: 10px;
+    
+   }
 
+.mg {
+    margin: 50px;
+}
