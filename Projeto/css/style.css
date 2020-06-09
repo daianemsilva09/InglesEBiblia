@@ -10,9 +10,9 @@ body{
     text-align: center;
 }
 .formulario{
-    background-color:rgb(26, 14, 14);
+    background-color:rgb(13, 163, 163);
     padding-bottom: 1px;
-    padding-top: 5px;
+    padding-top: 20px;
 
     color: White;
     border-radius: 10px;
@@ -26,4 +26,8 @@ body{
 
 .mg {
     margin: 50px;
+    }
+.botao
+{
+    color :rgb(9, 31, 31); 
 }
